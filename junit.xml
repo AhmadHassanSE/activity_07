@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="36" failures="0" errors="0" time="1.009">
+  <testsuite name="Calculator - Unit Tests" errors="0" failures="0" skipped="0" timestamp="2025-10-31T14:00:51" time="0.732" tests="36">
+    <testcase classname="Calculator - Unit Tests add() function should add two positive numbers correctly" name="Calculator - Unit Tests add() function should add two positive numbers correctly" time="0.003">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests add() function should add positive and negative numbers correctly" name="Calculator - Unit Tests add() function should add positive and negative numbers correctly" time="0">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests add() function should add two negative numbers correctly" name="Calculator - Unit Tests add() function should add two negative numbers correctly" time="0">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests add() function should add zero to a number correctly" name="Calculator - Unit Tests add() function should add zero to a number correctly" time="0">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests add() function should handle decimal numbers correctly" name="Calculator - Unit Tests add() function should handle decimal numbers correctly" time="0.001">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests subtract() function should subtract two positive numbers correctly" name="Calculator - Unit Tests subtract() function should subtract two positive numbers correctly" time="0">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests subtract() function should subtract negative numbers correctly" name="Calculator - Unit Tests subtract() function should subtract negative numbers correctly" time="0">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests subtract() function should return negative result when subtracting larger number" name="Calculator - Unit Tests subtract() function should return negative result when subtracting larger number" time="0">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests subtract() function should handle zero correctly" name="Calculator - Unit Tests subtract() function should handle zero correctly" time="0">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests multiply() function should multiply two positive numbers correctly" name="Calculator - Unit Tests multiply() function should multiply two positive numbers correctly" time="0.001">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests multiply() function should multiply positive and negative numbers correctly" name="Calculator - Unit Tests multiply() function should multiply positive and negative numbers correctly" time="0">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests multiply() function should multiply two negative numbers correctly" name="Calculator - Unit Tests multiply() function should multiply two negative numbers correctly" time="0.001">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests multiply() function should return zero when multiplying by zero" name="Calculator - Unit Tests multiply() function should return zero when multiplying by zero" time="0">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests multiply() function should handle decimal numbers correctly" name="Calculator - Unit Tests multiply() function should handle decimal numbers correctly" time="0">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests divide() function should divide two positive numbers correctly" name="Calculator - Unit Tests divide() function should divide two positive numbers correctly" time="0.001">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests divide() function should divide numbers with decimal result" name="Calculator - Unit Tests divide() function should divide numbers with decimal result" time="0">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests divide() function should handle negative numbers in division" name="Calculator - Unit Tests divide() function should handle negative numbers in division" time="0">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests divide() function should throw error when dividing by zero" name="Calculator - Unit Tests divide() function should throw error when dividing by zero" time="0.012">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests divide() function should return zero when dividing zero by a number" name="Calculator - Unit Tests divide() function should return zero when dividing zero by a number" time="0.001">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests divide() function should handle decimal divisors correctly" name="Calculator - Unit Tests divide() function should handle decimal divisors correctly" time="0">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests power() function should calculate positive exponent correctly" name="Calculator - Unit Tests power() function should calculate positive exponent correctly" time="0.001">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests power() function should handle zero exponent correctly" name="Calculator - Unit Tests power() function should handle zero exponent correctly" time="0">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests power() function should handle negative exponent correctly" name="Calculator - Unit Tests power() function should handle negative exponent correctly" time="0">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests power() function should handle fractional base correctly" name="Calculator - Unit Tests power() function should handle fractional base correctly" time="0">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests power() function should handle base of zero correctly" name="Calculator - Unit Tests power() function should handle base of zero correctly" time="0">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests squareRoot() function should calculate square root of positive number correctly" name="Calculator - Unit Tests squareRoot() function should calculate square root of positive number correctly" time="0.001">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests squareRoot() function should calculate square root of zero correctly" name="Calculator - Unit Tests squareRoot() function should calculate square root of zero correctly" time="0">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests squareRoot() function should calculate square root of decimal number correctly" name="Calculator - Unit Tests squareRoot() function should calculate square root of decimal number correctly" time="0">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests squareRoot() function should throw error for negative numbers" name="Calculator - Unit Tests squareRoot() function should throw error for negative numbers" time="0">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests squareRoot() function should handle perfect squares correctly" name="Calculator - Unit Tests squareRoot() function should handle perfect squares correctly" time="0">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests Integration Tests - Multiple Operations should handle complex calculation sequence" name="Calculator - Unit Tests Integration Tests - Multiple Operations should handle complex calculation sequence" time="0">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests Integration Tests - Multiple Operations should handle power and square root combination" name="Calculator - Unit Tests Integration Tests - Multiple Operations should handle power and square root combination" time="0">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests Integration Tests - Multiple Operations should handle edge case scenarios" name="Calculator - Unit Tests Integration Tests - Multiple Operations should handle edge case scenarios" time="0.001">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests Error Handling and Validation should handle very large numbers" name="Calculator - Unit Tests Error Handling and Validation should handle very large numbers" time="0">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests Error Handling and Validation should handle very small numbers" name="Calculator - Unit Tests Error Handling and Validation should handle very small numbers" time="0">
+    </testcase>
+    <testcase classname="Calculator - Unit Tests Error Handling and Validation should maintain precision for decimal operations" name="Calculator - Unit Tests Error Handling and Validation should maintain precision for decimal operations" time="0">
+    </testcase>
+  </testsuite>
+</testsuites>
